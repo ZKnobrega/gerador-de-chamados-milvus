@@ -1,0 +1,15 @@
+# Lixo de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Node (o projeto não usa, mas evita commit acidental)
+node_modules/
+
+# Documentacao interna de engenharia reversa da API - nao publicar
+DOCUMENTACAO_DEMANDAS_E_IMPLEMENTACAO.md
